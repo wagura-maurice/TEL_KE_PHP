@@ -1,6 +1,6 @@
 <?php
 
-include 'inc/functions.php';
+include 'functions.php';
 
 //$tel = "+254718837808"; // 254718837808 // 0718837808 // 718837808
 
